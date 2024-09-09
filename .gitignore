@@ -9,11 +9,12 @@ lerna-debug.log*
 
 password TTY8OrKjlqTatDrp
  
- supabase.js
+
 
 node_modules
 dist
 dist-ssr
+ supabase
 *.local
 
 
