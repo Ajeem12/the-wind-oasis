@@ -8,6 +8,8 @@ pnpm-debug.log*
 lerna-debug.log*
 
 password TTY8OrKjlqTatDrp
+ 
+ supabase.js
 
 node_modules
 dist
