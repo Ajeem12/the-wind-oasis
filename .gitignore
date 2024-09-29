@@ -14,7 +14,7 @@ password TTY8OrKjlqTatDrp
 node_modules
 dist
 dist-ssr
- supabase
+supabase
 *.local
 
 
